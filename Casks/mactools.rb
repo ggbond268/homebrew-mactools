@@ -1,8 +1,8 @@
 cask "mactools" do
-  version "1.0.0"
-  sha256 "3206aaef1fb467c650de90b70061b3d243825385681df2c959502abd7fed78cb"
+  version "1.0.1"
+  sha256 "d0609773098a211cf8d6dedddfa03df34bab0687b23ebf65244e25f2832c7fcd"
 
-  url "https://github.com/ggbond268/MacTools/releases/download/v1.0.0/MacTools.dmg"
+  url "https://github.com/ggbond268/MacTools/releases/download/v1.0.1/MacTools.dmg"
   name "MacTools"
   desc "Menu bar toolbox"
   homepage "https://github.com/ggbond268/MacTools"
